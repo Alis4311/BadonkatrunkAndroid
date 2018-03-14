@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/BadonkatrunkAndroid.iml" filepath="$PROJECT_DIR$/BadonkatrunkAndroid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/BadonkatrunkAndroid.iml" filepath="$PROJECT_DIR$/.idea/BadonkatrunkAndroid.iml" />
+      <module fileurl="file://C:\Users\marku\AndroidStudioProjects\BadonkatrunkAndroid\BadonkatrunkAndroid.iml" filepath="C:\Users\marku\AndroidStudioProjects\BadonkatrunkAndroid\BadonkatrunkAndroid.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\marku\AndroidStudioProjects\BadonkatrunkAndroid\app\app.iml" filepath="C:\Users\marku\AndroidStudioProjects\BadonkatrunkAndroid\app\app.iml" />
     </modules>
   </component>
 </project>
